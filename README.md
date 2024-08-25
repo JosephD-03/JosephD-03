@@ -1,5 +1,9 @@
 # Layton area puzzle cache
 
+# Announcements:
+Saturday 08/24/2024: The master file has been released (Download it at https://github.com/JosephD-03/JosephD-03/blob/main/MasterFile.zip)! I am excited for people to start finding the caches! 
+Feel free to use the files to create puzzle caches in your local area :)
+
 
 ## About:
 My goal is to project to provide "indoorsy" people a fun way to collaborate with their "outdoorsy" friends/family, and to give myself a fun hobby incorporating my interests in computers/electronics with my love for the outdoors. My hope is to eventually include some electronic components, multiple courses, and a variety of puzzles for the course—and a better website.
@@ -16,23 +20,12 @@ You and anyone else you invite to participate also acknowledge that numerous fac
 You also acknowledge that we are not liable for your use of any third party software or service whether or not it is linked on this website, or otherwise recommended by us.
 
 ## Getting started:
-The puzzle cache consists of three geocaches hidden in outdoor locations near Layton Utah. To find the coordinates, you will need to decrypt several layers of a file, but don’t fear-- no computer science degree is required, though you may have an easier time if you have a computer/programming savvy person helping you! 
 
-To find cache 1:
-Download the free 7zip application (or use an alternate version of your choice)
-Download and extract the file “I_Go_Cache.7z” from the github page linked here
-Practice using your decryption app by entering: AgreeToAll as the password to the file 
-“Getting_Started.7zip”
-Follow the clues to get the password for the file “C1_P1.7z”
-Go to the coordinates described and sign the log if you like!
-When you reach cache one, record the password in the cache box “C2_C1_.7z”
-To find the other two caches:
-Figure it out—I believe in you!
-The first person to find the last geocache will collect a prize!**
-**see disclaimer
+Download this file from the Repo: https://github.com/JosephD-03/JosephD-03/blob/main/MasterFile.zip
+Unzip the file and open "Review_This_To_Continue.pdf.. That file is a copy of the FAQ and a password to get you to the PDF with the cipher for cache 1. 
 
 ## Feedback:
-I want people to have fun with this. When you find the last geocache, there is a QR code to give some constructive feedback.
+I want people to have fun with this! When you find the last geocache, there is a QR code to give some constructive feedback.
 
 ## FAQ:
 Q: Do I need to hike a lot? Is it hard to get to the caches?
@@ -40,7 +33,7 @@ A: The farthest you will have to go to find a cache is ~3.0 miles round trip. Th
 **see disclaimer
 
 Q: How big is the prize?
-A: Don’t quit your job to find it… Maybe lunch for you and a friend or two.
+A: Don’t quit your job to find it… Maybe lunch for you and a friend. There might be some significance to the numbers 2 and 22 ;)
 
 Q: Has someone already found the prize? Will there be more than one prize? 
 A: Check back on this page for announcements!
@@ -58,7 +51,7 @@ Q: Is there some kind of business here?
 A: My profits on this project are the enjoyment you get from having fun!
 
 Q: How long will the course be available?
-A: I plan to keep it out at least till at least September 2024, we’ll see how it evolves over this summer.
+A: I plan to keep it out at least till at least mid October, we’ll see how it evolves over this summer.
 
 Q: Can kids do it?
 A: 1.) Parents/guardians: you are the ones responsible for that decision. ** 2.) The puzzles can be completed on paper with a computer or phone disconnected from the internet, and I reckon that all the hikes could be do-able by an older child (9-12 years). It will be obvious what hike you are going to need to do to get very close to each cache. Consider using an app like AllTrails  to see what to expect. 
