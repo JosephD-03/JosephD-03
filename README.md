@@ -1,7 +1,7 @@
 # Layton area puzzle cache
 
 # Announcements:
-Saturday 08/24/2024: The master file has been released (Download it at https://github.com/JosephD-03/JosephD-03/blob/main/MasterFile.zip)! I am excited for people to start finding the caches! 
+Saturday 08/24/2024: The master file has been released [Download it here](https://github.com/JosephD-03/JosephD-03/blob/main/MasterFile.zip)! I am excited for people to start finding the caches! :)
 Feel free to use the files to create puzzle caches in your local area :)
 
 
@@ -21,7 +21,7 @@ You also acknowledge that we are not liable for your use of any third party soft
 
 ## Getting started:
 
-Download this file from the Repo: https://github.com/JosephD-03/JosephD-03/blob/main/MasterFile.zip
+Download the [master file](https://github.com/JosephD-03/JosephD-03/blob/main/MasterFile.zip)
 Unzip the file and open "Review_This_To_Continue.pdf.. That file is a copy of the FAQ and a password to get you to the PDF with the cipher for cache 1. 
 
 ## Feedback:
